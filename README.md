@@ -1,0 +1,1 @@
+# fruit-sale-backend-core
